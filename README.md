@@ -6,7 +6,7 @@
 
 Hi everyone, this is a project made for the Javascript Advance course for Start2Impact.
 
-I made a simple search for book by carhegory, using Javascript and HTML and  Open Library API
+I made a simple search for book by carhegory, using Javascript, HTML and  Open Library API
 
 
 **Built with**
@@ -20,7 +20,7 @@ I made a simple search for book by carhegory, using Javascript and HTML and  Ope
 
 **Usage**
 
-Open index.html or visit https://simplecounterinjss.netlify.app and you will be looking at the searchbar in the top of the web page, in this area you can write the title of the book you're looking for.
+Open index.html and you will be looking at the searchbar in the top of the web page, in this area you can write the title of the book you're looking for.
 
 The site search books in the same category in the Open Library database throught thw Open Library search API. You can have more information about the book clicking on the button or the book cover
 
