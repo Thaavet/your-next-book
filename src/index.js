@@ -1,3 +1,4 @@
+import "./style/styles.css";
 function searchBooks() {
     let category = document.getElementById('category').value;
     let url = 'https://openlibrary.org/subjects/' + category + '.json';
