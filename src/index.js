@@ -10,7 +10,7 @@ function searchBooks() {
         let booksDiv = document.getElementById('books');
         booksDiv.innerHTML = '';
         
-        if (books.length === 0 ? alert('No books found in the selected category') : console.log(books.length)) {
+        if (books.length === 0 ? alert('No books found in the selected category, please try another word') : console.log(books.length)) {
 
         }
   
